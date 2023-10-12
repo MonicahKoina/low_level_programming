@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- * main is the entry point of this code
- * written by MonicahKoina
- * Return : Always 0
+ * main - print _putchar
+ * is written by mugure
+ * Return: 0
  */
-int main (void)
+
+int main(void)
 {
 _putchar('_');
 _putchar('p');
